@@ -1,0 +1,87 @@
+body{
+    font-family: "新細明體";
+}
+.circle {
+    width: 62px;
+    height: 62px;
+    border-radius: 100%;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+.rounded-rectangle {
+    width: 62px;
+    height: 62px;
+    border-radius: 15%;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;}
+
+
+.i.i-person {
+    background-image: url(../img/icon-list.png);
+    background-position: -40px -44px;
+}
+.i.i-phone {
+    background-image: url(../img/icon-list.png);
+    background-position: -158px -41px;
+}
+.i.i-message{
+    background-image: url(../img/icon-list.png);
+    background-position: -277.6px -40px;
+}
+.i.i-clock{
+    background-image: url(../img/icon-list.png);
+    background-position: -396.4px -41px;
+}
+.i.i-music{
+    background-image: url(../img/icon-list.png);
+    background-position: -41.5px -159px;
+}
+.i.i-photo{
+    background-image: url(../img/icon-list.png);
+    background-position: -158px -159.3px;
+}
+.i.i-photocamera{
+    background-image: url(../img/icon-list.png);
+    background-position: -277.6px -159.3px;
+}
+.i.i-videocamera{
+    background-image: url(../img/icon-list.png);
+    background-position: -396.4px -159.3px;
+}
+.i.i-webcam{
+    background-image: url(../img/icon-list.png);
+    background-position: -40px -281px;
+}
+.i.i-microphone{
+    background-image: url(../img/icon-list.png);
+    background-position: -158.5px -279.7px;
+}
+.i.i-trashcan{
+    background-image: url(../img/icon-list.png);
+    background-position: -277.6px -279.2px;
+}
+.i.i-find{
+    background-image: url(../img/icon-list.png);
+    background-position: -395.4px -280px;
+}
+.i.i-location{
+    background-image: url(../img/icon-list.png);
+    background-position: -38.5px -399px;
+}
+.i.i-setting{
+    background-image: url(../img/icon-list.png);
+    background-position: -158px -398px;
+}
+.i.i-speaker{
+    background-image: url(../img/icon-list.png);
+    background-position: -279.5px -398px;
+}
+.i.i-note{
+    background-image: url(../img/icon-list.png);
+    background-position: -396.5px -398px;
+}
